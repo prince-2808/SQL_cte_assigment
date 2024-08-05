@@ -1,0 +1,1 @@
+# SQL_cte_assigment
